@@ -1,4 +1,4 @@
 szablon
 =======
 
-Szablon serwisu Skylines.pl
+Szablon serwisu http://Skylines.pl
